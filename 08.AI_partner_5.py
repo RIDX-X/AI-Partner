@@ -11,8 +11,8 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="expanded",
     menu_items={
-        'Get Help': 'https://www.bilibili.com',
-        'Report a bug': "https://www.bilibili.com",
+        'Get Help': 'https://space.bilibili.com/34200163?spm_id_from=333.1007.0.0',
+        'Report a bug': "https://space.bilibili.com/34200163?spm_id_from=333.1007.0.0",
         'About': "# 这是一个 Streamlit 的入门页面！我也不会！"
     }
 )
